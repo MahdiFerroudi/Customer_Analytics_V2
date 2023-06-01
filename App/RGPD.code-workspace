@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../RGPD"
+		},
+		{
+			"path": "../CamemBert"
+		},
+		{
+			"path": "../GPT2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
